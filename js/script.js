@@ -16,4 +16,4 @@ let number = 21;
 console.log(number);
 
 // Infine scrivo sulla pagina nome cognome colore preferito21
-document.getElementById("text").innerHTML= `Ciao il mio nome è ${name} e il mio cognome è ${surname}. Il mio colore preferito è ${color} ${number}.`;
+document.getElementById("text").innerHTML= `Ciao la tua password è: ${name}${surname}${color}${number}.`;
